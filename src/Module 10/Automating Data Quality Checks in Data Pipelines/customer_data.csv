@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Income,City
+1,Alice,25,50000,Bengaluru
+2,Bob,30,60000,Mumbai
+3,Charlie,22,45000,Delhi
+4,David,35,70000,Bengaluru
+5,Eve,28,55000,Chennai
+6,Frank,40,80000,Mumbai
+7,Grace,32,65000,Delhi
+8,Henry,27,52000,Bengaluru
+9,Ivy,29,58000,Chennai
+10,Jack,31,62000,Mumbai
