@@ -1,0 +1,16 @@
+artifact_uri: /workspaces/AI_DATA_ANALYSIS_/src/Module 10/Best Practices & Industry
+  Case Studies/my_mlruns/0/1f2b07a0bc954e268d77cb0456427b89/artifacts
+end_time: 1746788197899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f2b07a0bc954e268d77cb0456427b89
+run_name: rumbling-panda-120
+run_uuid: 1f2b07a0bc954e268d77cb0456427b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746788190358
+status: 3
+tags: []
+user_id: vscode
