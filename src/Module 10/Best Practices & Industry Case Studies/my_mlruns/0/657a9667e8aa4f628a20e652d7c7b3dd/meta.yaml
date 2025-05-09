@@ -1,0 +1,16 @@
+artifact_uri: /workspaces/AI_DATA_ANALYSIS_/src/Module 10/Best Practices & Industry
+  Case Studies/my_mlruns/0/657a9667e8aa4f628a20e652d7c7b3dd/artifacts
+end_time: 1746788840326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 657a9667e8aa4f628a20e652d7c7b3dd
+run_name: orderly-worm-803
+run_uuid: 657a9667e8aa4f628a20e652d7c7b3dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746788835814
+status: 3
+tags: []
+user_id: vscode
